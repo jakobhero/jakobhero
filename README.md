@@ -4,6 +4,7 @@
 <br>
 <a href="https://www.linkedin.com/in/jakob-herold/" target="_blank"><img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>
 <br>
+<br>
 <div>The technologies I learned and applied on this profile include:</div>
 <ul>
   <li>Python Backend Development in Flask</li>
